@@ -1,3 +1,4 @@
 <?php
-echo "It works";
+# Redireccionar al formulario y ya
+header("Location: formulario.html");
 ?>

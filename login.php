@@ -1,8 +1,8 @@
 <?php
 # Las claves de acceso, ahorita las ponemos aquí
 # y en otro ejercicio las ponemos en una base de datos
-$usuario_correcto = "parzibyte";
-$palabra_secreta_correcta = "hunter2";
+$usuario_correcto = "Leo";
+$palabra_secreta_correcta = "Shaggy54";
 /*
 Para leer los datos que fueron enviados al formulario,
 accedemos al arreglo superglobal llamado $_POST en PHP, y
